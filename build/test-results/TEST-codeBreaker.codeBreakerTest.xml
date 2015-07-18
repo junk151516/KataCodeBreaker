@@ -1,0 +1,12 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<testsuite name="codeBreaker.codeBreakerTest" tests="6" failures="0" errors="0" timestamp="2015-07-18T14:57:08" hostname="localhost.localdomain" time="0.017">
+  <properties/>
+  <testcase name="combinado" classname="codeBreaker.codeBreakerTest" time="0.003"/>
+  <testcase name="combinado2" classname="codeBreaker.codeBreakerTest" time="0.0"/>
+  <testcase name="ningunoCoincide" classname="codeBreaker.codeBreakerTest" time="0.0"/>
+  <testcase name="unoCoincide" classname="codeBreaker.codeBreakerTest" time="0.005"/>
+  <testcase name="todosIncluidos" classname="codeBreaker.codeBreakerTest" time="0.001"/>
+  <testcase name="todosCoinciden" classname="codeBreaker.codeBreakerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
